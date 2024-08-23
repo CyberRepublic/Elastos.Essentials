@@ -1,11 +1,5 @@
 # Essentials Web3 wallet
 
-|Travis|Actions|Appveyor|
-|:-:|:-:|:-:|
-|[![Build Status](https://app.travis-ci.com/elastos/Elastos.Essentials.svg?branch=master)](https://app.travis-ci.com/elastos/Elastos.Essentials)|[![Build App](https://github.com/elastos/Elastos.Essentials/actions/workflows/app.yml/badge.svg)](https://github.com/elastos/Elastos.Essentials/actions/workflows/app.yml)|[![Build status](https://ci.appveyor.com/api/projects/status/ssmobivqcfvbtqa1/branch/master?svg=true)](https://ci.appveyor.com/project/Elastos/elastos-essentials/branch/master)|
-
-
-
 ## Introduction
 
 Elastos Essentials is a multi-purpose wallet application of the Elastos ecosystem. It integrates all the services that Elastos provides such as decentralized identities (DID), storage (Hive), chains (Wallet) and combines them into a singular environment for end-users to easily use Elastos features in third party dApps.
@@ -14,12 +8,8 @@ Elastos Essentials is distributed on Android and iOS.
 
 [Join us on Telegram](https://t.me/elastosbrowser)
 
-## dApp Developers - should you build this repo?
-
-You don't need to build from the source. Instead, get the latest Essentials from app stores or Android daily builds from GitHub releases.
-
 ## Download Essentials for Android
-[stable version](https://github.com/elastos/Elastos.Essentials/releases/latest)
+[stable version](https://github.com/CyberRepublic/Elastos.Essentials/releases/latest)
 
 ## Build from Source
 
@@ -56,7 +46,7 @@ Latest versions of: Git, Node.js, npm, Python, Cordova, Ionic
 
 ```sh
 cd <YOUR_PATH>
-git clone --recurse-submodules git@github.com:elastos/Elastos.Essentials.git
+git clone --recurse-submodules git@github.com:CyberRepublic/Elastos.Essentials.git
 cd Elastos.Essentials
 ```
 
