@@ -7,9 +7,6 @@
 [submodule "Plugins/PasswordManager"]
 	path = Plugins/PasswordManager
 	url = ../Elastos.Essentials.Plugins.PasswordManager.git
-[submodule "Plugins/Wallet"]
-	path = Plugins/Wallet
-	url = ../Elastos.Essentials.Plugins.Wallet.git
 [submodule "SDK/Web3Provider"]
 	path = SDK/Web3Provider
 	url = ../Elastos.Essentials.InAppBrowserWeb3Provider.git
